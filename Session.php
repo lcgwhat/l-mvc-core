@@ -4,7 +4,7 @@
  *
  */
 
-namespace app\core;
+namespace lcgwhat\phpmvc;
 
 
 class Session

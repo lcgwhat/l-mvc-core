@@ -4,10 +4,10 @@
  *
  */
 
-namespace app\core;
+namespace lcgwhat\phpmvc;
 
 
-use app\core\exception\NotFoundException;
+use lcgwhat\phpmvc\exception\NotFoundException;
 
 class Router
 {

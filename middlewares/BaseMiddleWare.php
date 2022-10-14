@@ -4,7 +4,7 @@
  *
  */
 
-namespace app\core\middlewares;
+namespace lcgwhat\phpmvc\middlewares;
 
 
 abstract class BaseMiddleWare

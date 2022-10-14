@@ -4,10 +4,10 @@
  *
  */
 
-namespace app\core\db;
+namespace lcgwhat\phpmvc\db;
 
 
-use app\core\Application;
+use lcgwhat\phpmvc\Application;
 
 class Database
 {

@@ -4,7 +4,7 @@
  *
  */
 
-namespace app\core\exception;
+namespace lcgwhat\phpmvc\exception;
 
 
 class ViewFileNotFoundException extends \Exception

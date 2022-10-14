@@ -4,10 +4,10 @@
  *
  */
 
-namespace app\core;
+namespace lcgwhat\phpmvc;
 
 
-use app\core\exception\InvalidConfigException;
+use lcgwhat\phpmvc\exception\InvalidConfigException;
 
 class Request
 {

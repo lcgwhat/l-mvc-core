@@ -4,11 +4,11 @@
  *
  */
 
-namespace app\core\form;
+namespace lcgwhat\phpmvc\form;
 
 
 
-use app\core\Model;
+use lcgwhat\phpmvc\Model;
 
 class Field
 {

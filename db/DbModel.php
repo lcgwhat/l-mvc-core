@@ -4,12 +4,12 @@
  *
  */
 
-namespace app\core\db;
+namespace lcgwhat\phpmvc\db;
 
 
-use app\core\Application;
+use lcgwhat\phpmvc\Application;
 
-abstract class DbModel extends \app\core\Model
+abstract class DbModel extends \lcgwhat\phpmvc\Model
 {
 
     abstract static function tableName():string;

@@ -4,12 +4,12 @@
  *
  */
 
-namespace app\core;
+namespace lcgwhat\phpmvc;
 
 
 use app\controllers\Controller;
-use app\core\db\Database;
-use app\core\db\DbModel;
+use lcgwhat\phpmvc\db\Database;
+use lcgwhat\phpmvc\db\DbModel;
 
 class Application
 {

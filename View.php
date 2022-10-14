@@ -4,10 +4,10 @@
  *
  */
 
-namespace app\core;
+namespace lcgwhat\phpmvc;
 
 
-use app\core\exception\ViewFileNotFoundException;
+use lcgwhat\phpmvc\exception\ViewFileNotFoundException;
 
 class View
 {

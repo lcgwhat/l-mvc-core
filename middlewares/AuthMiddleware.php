@@ -4,11 +4,11 @@
  *
  */
 
-namespace app\core\middlewares;
+namespace lcgwhat\phpmvc\middlewares;
 
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use lcgwhat\phpmvc\Application;
+use lcgwhat\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleWare
 {

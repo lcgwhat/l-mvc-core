@@ -1,4 +1,9 @@
 {
     "name": "lcgwhat/l-mvc-core",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lcgwhat\\phpmvc\\": "./"
+        }
+    }
 }
